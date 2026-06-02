@@ -74,7 +74,7 @@ function Project() {
       }
     };
     fetchProjects();
-  }, []);
+  }, []});
 
   return (
     <div id="projects">
