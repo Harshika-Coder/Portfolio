@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Portfolio/static/css/main.bf665e2f.css",
+    "main.js": "/Portfolio/static/js/main.f64340b8.js",
+    "static/media/web-dev img.png": "/Portfolio/static/media/web-dev img.deadb7e907ec9b21e611.png",
+    "static/media/Harshika_Resume.pdf": "/Portfolio/static/media/Harshika_Resume.c6eac81e47a8314131be.pdf",
+    "index.html": "/Portfolio/index.html",
+    "main.bf665e2f.css.map": "/Portfolio/static/css/main.bf665e2f.css.map",
+    "main.f64340b8.js.map": "/Portfolio/static/js/main.f64340b8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bf665e2f.css",
+    "static/js/main.f64340b8.js"
+  ]
+}
