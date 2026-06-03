@@ -117,3 +117,4 @@ This project is open source and available under the MIT License.
 - Deployed on GitHub Pages
 - Styled with custom CSS
 - Integrated with Firebase for backend services
+
