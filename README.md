@@ -59,17 +59,20 @@ Portfolio/
 ### Installation
 
 1. Clone the repository
+
 ```bash
 git clone https://github.com/Harshika-Coder/Portfolio.git
 cd Portfolio
 ```
 
 2. Install dependencies
+
 ```bash
 npm install
 ```
 
 3. Start the development server
+
 ```bash
 npm start
 ```
@@ -99,6 +102,7 @@ The portfolio is deployed on GitHub Pages and can be accessed at: [https://Harsh
 ### Deploy Changes
 
 To deploy updates:
+
 ```bash
 npm run deploy
 ```
@@ -117,4 +121,3 @@ This project is open source and available under the MIT License.
 - Deployed on GitHub Pages
 - Styled with custom CSS
 - Integrated with Firebase for backend services
-
