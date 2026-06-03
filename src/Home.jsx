@@ -22,7 +22,12 @@ function Home() {
         <img src={webImage} alt="dev-image" />
         <div id="Attached">
           <button className="btn">
-            <a href={harshikaResume} target="_blank" download>
+            <a
+              href={harshikaResume}
+              target="_blank"
+              rel="noreferrer noopener"
+              download
+            >
               Download Harshika's Resume
             </a>
           </button>

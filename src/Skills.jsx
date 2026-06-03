@@ -1,4 +1,3 @@
-import { useState, useEffect } from "react";
 import "./style.css";
 import htmlLogo from "./assets/html-logo.png";
 import cssLogo from "./assets/CSS-logo.png";
@@ -9,7 +8,7 @@ import NodeLogo from "./assets/node-logo.png";
 import ExpressLogo from "./assets/Express-logo.png";
 
 function Skills() {
-  const [skills, setSkills] = useState([
+  const skills = [
     { name: "HTML", logo: htmlLogo },
     { name: "CSS", logo: cssLogo },
     { name: "JavaScript", logo: jsLogo },
@@ -17,8 +16,7 @@ function Skills() {
     { name: "Node.js", logo: NodeLogo },
     { name: "Express.js", logo: ExpressLogo },
     { name: "MongoDB", logo: mongoDB },
-  ]);
-
+  ];
 
   return (
     <div id="skills">

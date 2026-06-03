@@ -19,19 +19,28 @@ function Contact() {
           <a
             href="https://www.linkedin.com/in/harshika-chaurasia-979601247/"
             target="_blank"
+            rel="noreferrer noopener"
           >
             LinkedIn Profile
           </a>
         </li>
         <li>
           💻GitHub:
-          <a href="https://github.com/Harshika-Coder" target="_blank">
+          <a
+            href="https://github.com/Harshika-Coder"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             GitHub Profile
           </a>
         </li>
         <li>
           🔗Naukari:
-          <a href="https://www.naukri.com/mnjuser/profile" target="_blank">
+          <a
+            href="https://www.naukri.com/mnjuser/profile"
+            target="_blank"
+            rel="noreferrer noopener"
+          >
             Naukri Profile
           </a>
         </li>
